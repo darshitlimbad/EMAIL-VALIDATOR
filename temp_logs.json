@@ -1,0 +1,59 @@
+    {
+        "darshitlimbad555@gmail.com": {
+            "format": "valid",
+            "mx": "valid",
+            "smtp": "252 2.1.5 Send some mail, I'll try my best 2adb3069b0e04-54410612505si2228745e87.539 - gsmtp\r\n",
+            "status": "invalid"
+        },
+        "sondagarmit@gmail.com": {
+            "format": "valid",
+            "mx": "valid",
+            "smtp": "252 2.1.5 Send some mail, I'll try my best 2adb3069b0e04-544105f513esi2247216e87.323 - gsmtp\r\n",
+            "status": "invalid"
+        },
+        "director@drrmlims.ac.in": {
+            "format": "valid",
+            "mx": "valid",
+            "smtp": "250 director@drrmlims.ac.in\r\n",
+            "status": "invalid"
+        },
+        "sondagarmit@yahoo.com": {
+            "format": "valid",
+            "mx": "valid",
+            "smtp": false,
+            "status": "invalid"
+        },
+        "director123@drrmlims.ac.in": {
+            "format": "valid",
+            "mx": "valid",
+            "smtp": "550 String does not match anything.\r\n",
+            "status": "invalid"
+        }
+    }
+
+    {
+        "shevy2832@gmail.com": {
+            "format": "valid",
+            "mx": "valid",
+            "smtp": "250 2.1.5 OK 38308e7fff4ca-308e1a517a9si4084641fa.371 - gsmtp\r\n",
+            "status": "invalid"
+        }
+    }
+
+    {
+        "shevy2832@gmail.com": {
+            "format": "valid",
+            "mx": "valid",
+            "smtp": "252 2.1.5 Send some mail, I'll try my best 2adb3069b0e04-54506561606si268186e87.43 - gsmtp\r\n",
+            "status": "invalid"
+        }
+    }
+
+    {
+        "darshitlimbad555@gmail.com": {
+            "format": "valid",
+            "mx": "valid",
+            "smtp": "252 2.1.5 Send some mail, I'll try my best 2adb3069b0e04-54410607f22si2240563e87.433 - gsmtp\r\n",
+            "status": "invalid"
+        }
+    }
